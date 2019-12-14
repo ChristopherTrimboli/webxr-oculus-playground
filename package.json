@@ -1,0 +1,22 @@
+{
+  "name": "webxr-oculus-playground",
+  "version": "1.0.0",
+  "description": "webxr-oculus-playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisEddy/webxr-oculus-playground.git"
+  },
+  "author": "Chris Eddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisEddy/webxr-oculus-playground/issues"
+  },
+  "homepage": "https://github.com/ChrisEddy/webxr-oculus-playground#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

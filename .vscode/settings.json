@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.host": "dev.exokit.org",
+    "liveServer.settings.https": {
+        "enable": true, //set it true to enable the feature.
+        "cert": "/Users/chris/Documents/Github/webxr-oculus-playground/fullchain.pem", //full path of the certificate
+        "key": "/Users/chris/Documents/Github/webxr-oculus-playground/privkey.pem", //full path of the private key
+    }
+}
